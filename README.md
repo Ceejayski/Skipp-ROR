@@ -48,3 +48,6 @@ subtracted by 1.
 
 ## API Documentation
  You can find the API documentation [here](https://documenter.getpostman.com/view/16059767/2s83znqMsc)
+
+## Notes
+- No tests where written at this time due to my bundled up schedule, this project was done in 7 - 8 hours.
